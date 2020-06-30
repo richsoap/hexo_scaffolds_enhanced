@@ -1,0 +1,2 @@
+# hexo_scaffolds_enhanced
+原生scaffolds功能实在是不行，多加几个功能对身体好
